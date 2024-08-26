@@ -1,16 +1,32 @@
-# demowebapi
+## ①課題番号-プロダクト名
+現在地の天気取得アプリ
 
-A new Flutter project.
+## ②課題内容（どんな作品か）
 
-## Getting Started
+- 現在地の天気取得アプリをflutter(Dart)で実装
+- 具体的なCodeはlib直下に置いてあります
+- APIで現在地の天気を取得して表示している
 
-This project is a starting point for a Flutter application.
+## ③DEMO
+- ネイティブアプリなので動画をアップします
 
-A few resources to get you started if this is your first Flutter project:
+## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ID: 今回なし
+- PW: 今回なし
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⑤工夫した点・こだわった点
+
+- シンプルなUIを心がけている
+- 一つのボタンで取得表示ができるようにしている
+
+## ⑥難しかった点・次回トライしたいこと(又は機能)
+
+- 取得した地名や気温などを日本語表記にしたかったができなかった
+- １週間の天気なども表示できるとより利便性が高まると思った
+
+## ⑦質問・疑問・感想、シェアしたいこと等なんでも
+
+- [質問] 特になし
+- [感想] 今回JavaScriptではなくFlutterで実装したが、慣れもあるのか実装しやすく、見栄えもそれっぽくできた
+- [参考記事]
